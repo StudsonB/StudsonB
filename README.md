@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StudsonB
 - 👀 I’m interested in Quantitative Finance, Economics, Mathematics, and Real Estate.
 - 🌱 I’m currently learning Python, specifically for finance.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Financial Modeling, Machine Learning, and Analysis
 - 📫 How to reach me:
   - email: Stetson.dba@gmail.com
   - LinkedIn: linkedin.com/in/stetsonb/
