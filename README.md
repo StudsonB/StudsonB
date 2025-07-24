@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python, specifically for finance.
 - 💞️ I’m looking to collaborate on Financial Modeling, Machine Learning, and Analysis
 - 📫 How to reach me:
-  - email: Stetson.dba@gmail.com
   - LinkedIn: linkedin.com/in/stetsonb/
   - HackerRank: hackerrank.com/StetsonB
   - CodeAcademy: codecademy.com/profiles/Stetson_B
